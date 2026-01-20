@@ -48,6 +48,5 @@ Recommender systems help users discover relevant content from large catalogs by 
 Movie-Recommendation-System/
 ├── app.py                     # Main application (web interface)
 ├── notebook.ipynb             # Model training + exploration notebook
-├── movie_list.pkl             # Pickled movie metadata
 ├── requirements.txt           # Python dependencies
 ├── README.md

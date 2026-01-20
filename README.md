@@ -50,3 +50,6 @@ Movie-Recommendation-System/
 ├── notebook.ipynb             # Model training + exploration notebook
 ├── requirements.txt           # Python dependencies
 ├── README.md
+
+```
+Dataset- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
